@@ -7,3 +7,7 @@
 I find this article very interesting because it's a very relevant topic that plagues the minds of every computer science major, as well as many other students.  We are all worried about AI taking our jobs by making the entry level positions obselete.  I find this article reassuring, not only because it was published on my 21st birthday which adds some extra fun, but because it gives me, and hopefully others, faith that a path still exists for most of us.  
 
 Models like Chat-GPT are able to write code, though not very well, but executives still see the benefit of having humans to code, to ensure mistakes are fixed properly.  I think that will be our leg up over AI in the coming years; our ability to truly think on our feet will not be matched anytime soon (hopefully).
+
+
+## Jeanmarck Reflection
+I agree with what the article is saying. AI might be able to spit out code, but it still can’t really replace the way people think through problems, catch mistakes, and adapt on the fly. That makes me feel better about the future because it shows there’s still a real need for us in the field.
